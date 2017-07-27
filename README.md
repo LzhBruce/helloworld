@@ -1,2 +1,2 @@
-# helloworld
-just for study
+# Bruce Frame
+New Commer.
